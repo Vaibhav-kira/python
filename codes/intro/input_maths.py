@@ -1,0 +1,5 @@
+a = int(input())
+b = int(input())
+print(str(a+b) + "hi")
+print((((1+2)*3)/4)**5)
+print(64//5)
